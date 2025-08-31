@@ -8,7 +8,7 @@
 </div>
 
 
-## 🌈 Trophy Zone
+## 🏆 Trophy Zone
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bit-adii&row=1&column=10&theme=radical" alt="bit-adii trophy"/>
 </p>
