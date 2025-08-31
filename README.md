@@ -1,28 +1,70 @@
-<h1 align="center">Hi 👋, I'm ADARSH SINGH</h1>
-<h3 align="center">Turning coffee ☕ and code 💻 into solutions</h3>
+<h1 align="center">😜 Hey there, I'm ADARSH SINGH 🚀</h1>
+<h3 align="center">Turning coffee ☕ and code 💻 into solutions, one bug at a time!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bit-adii&label=Profile%20views&color=0e75b6&style=flat" alt="bit-adii" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bit-adii&label=Profile+views&color=dc143c&style=for-the-badge" alt="bit-adii" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bit-adii" alt="bit-adii" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@s93013804adarsh" target="blank"><img src="https://img.shields.io/twitter/follow/@s93013804adarsh?logo=twitter&style=for-the-badge" alt="@s93013804adarsh" /></a> </p>
-
-- 📫 How to reach me **adarshsinghforindia@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@s93013804adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s93013804adarsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-singh0703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-singh0703" height="30" width="40" /></a>
-<a href="https://instagram.com/thatbrat_adii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatbrat_adii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarsh-singh0703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh-singh0703" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bread_jam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bread_jam7" height="30" width="40" /></a>
+## 🌈 Trophy Zone
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bit-adii&row=1&column=10&theme=radical" alt="bit-adii trophy"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+*Auto-updated every day via GitHub Actions!*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bit-adii&show_icons=true&locale=en&layout=compact" alt="bit-adii" /></p>
+## 📡 Social Fiesta
+<p align="center">
+  <a href="https://twitter.com/@s93013804adarsh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@s93013804adarsh-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/adarsh-singh0703"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adarsh_singh0703-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/thatbrat_adii"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@thatbrat_adii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/adarsh-singh0703"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-@adarsh--singh0703-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/bread_jam7"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-bread__jam7-F2B52C?style=for-the-badge&logo=codeforces&logoColor=black" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bit-adii&show_icons=true&locale=en" alt="bit-adii" /></p>
+## 🧑‍💻 Now Coding In
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-adii&" alt="bit-adii" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+## 🎯 Pinned Projects
+
+## 🎯 Pinned Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bit-adii&repo=cone-of-deads" alt="cone-of-deads" />
+  
+</p>
+
+
+## 🛸 GitHub Stats Zone
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bit-adii&show_icons=true&theme=radical" alt="bit-adii"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit-adii&layout=compact&theme=radical" alt="bit-adii"/>
+  <img src="https://streak-stats.demolab.com?user=bit-adii&theme=radical" alt="bit-adii"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=bit-adii&theme=github" alt="bit-adii"/>
+</p>
+
+## 🎵 What I'm Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem" alt="Spotify Currently Playing"/>
+</p>
+
+## 👾 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+  <br/><b>⭐ Drop a star, fork a project, or just say hi!</b>
+</div>
