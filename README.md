@@ -2,9 +2,11 @@
 <h3 align="center">Turning coffee ☕ and code 💻 into solutions, one bug at a time!</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bit-adii&label=Profile+views&color=dc143c&style=for-the-badge" alt="bit-adii" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
+  <img src="https://komarev.com/ghpvc/?username=bit-adii&label=Profile+views&color=dc143c&style=for-the-badge" alt="Profile Views" />
+  <br>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
 </div>
+
 
 ## 🌈 Trophy Zone
 <p align="center">
@@ -27,16 +29,20 @@
 
 ## 🧑‍💻 Now Coding In
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
 </p>
 
-## 🎯 Pinned Projects
 
 ## 🎯 Pinned Projects
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bit-adii&repo=cone-of-deads" alt="cone-of-deads" />
   
@@ -54,8 +60,13 @@
 ## 🎵 What I'm Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem" alt="Spotify Currently Playing"/>
+  <a href="https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo?si=Ky4bdO1RSZCIKP5Q9Mi53QL" target="_blank">
+    <img src="https://img.icons8.com/color/96/spotify--v1.png" width="50"/>
+    <br>
+    <b>SEEDHE MAUT - Artist</b>
+  </a>
 </p>
+
 
 ## 👾 Random Dev Quote
 <p align="center">
