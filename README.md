@@ -1,5 +1,5 @@
 <h1 align="center">😜 Hey there, I'm ADARSH SINGH 🚀</h1>
-<h3 align="center">Turning coffee ☕ and code 💻 into solutions, one bug at a time!</h3>
+<h3 align="center">bring coffee and kitkat ☕ I will give a codes 🫡</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bit-adii&label=Profile+views&color=dc143c&style=for-the-badge" alt="Profile Views" />
